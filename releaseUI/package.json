@@ -16,6 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "bs-axios": "^0.0.43",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "reason-future": "^2.5.0",
